@@ -2,8 +2,8 @@
 # `pls deliver solido app`. version + sha256 are filled in per release.
 #   brew install --cask specdevtech/tap/solido   (then: brew install --cask solido)
 cask "solido" do
-  version "1.0.190"
-  sha256 "7f5fa882a5a0750d94b40f3a9c76cc9428ec9f8f176df11141853e211da9ac2f"
+  version "1.0.191"
+  sha256 "d58530f57ae89164198615f7a557820c711a15813d18570479039c8373301cab"
 
   url "https://app.solido.dev/cdn/solido/app/Solido-#{version}.dmg"
   name "Solido"
